@@ -14,7 +14,7 @@
 	  },
 	  "vscode": {
 		"extensions": [
-		 "denoland.vscode_deno"
+		 "denoland.vscode-deno"
 		]
 	  }
 	}
